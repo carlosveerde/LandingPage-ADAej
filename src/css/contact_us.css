@@ -1,6 +1,5 @@
 .contact {
   background-color: #28338C;
-  height: 591px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,6 +7,7 @@
 }
 
 .contact-title {
+  padding-top: 100px;
   text-align: center;
   font-size: 3rem;
   margin-bottom: 40px;

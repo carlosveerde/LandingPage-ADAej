@@ -1,12 +1,13 @@
 .page_time{
     background-color: #28338C ;
-    height: 220vh;
+    height: 200vh;
+    
 }
 .title_time{
         display: block;
         text-align: center;
         padding-top: 64px;
-        font-size: 3rem;
+        font-size: 48px;
         color: white;
     
 }
